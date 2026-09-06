@@ -21,10 +21,20 @@ Or open `main.py` in VS Code and run `# %%` cells.
 
 CV model comparison and test metrics print to the terminal.
 
-### Distributions
+<p align="center">
+  <img src="eda_distributions.png" alt="Feature and target distributions" width="700" />
+  <br />
+  <em>Figure 1. Feature and target distributions</em>
+</p>
 
-![Feature and target distributions](eda_distributions.png)
+<p align="center">
+  <img src="eda_correlation.png" alt="Correlation heatmap" width="500" />
+  <br />
+  <em>Figure 2. Correlation heatmap</em>
+</p>
 
-### Correlation
-
-![Correlation heatmap](eda_correlation.png)
+<p align="center">
+  <img src="eda_scatter.png" alt="Feature vs price scatter plots" width="700" />
+  <br />
+  <em>Figure 3. Feature vs price scatter plots</em>
+</p>
